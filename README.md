@@ -206,10 +206,8 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo [LICENS
 
 Para dúvidas, sugestões ou contribuições, entre em contato:
 
-- **Nome:** Seu Nome
-- **Email:** seuemail@example.com
-- **GitHub:** [SeuPerfil](https://github.com/seuperfil)
-
+- **Nome:** João Paulo
+- **Email:**jpaulodamico@hotmail.com
 ---
 
 **Nota:** Sempre faça backup de seus dados antes de executar operações em massa para evitar perda acidental de informações.
