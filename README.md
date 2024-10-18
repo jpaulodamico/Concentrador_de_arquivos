@@ -2,21 +2,6 @@
 
 **ConcentraArquivos Avançado** é um script Python robusto projetado para consolidar arquivos de múltiplas pastas em uma única pasta de destino. Com funcionalidades avançadas, como tratamento de nomes duplicados, filtragem por tipos de arquivos, exclusão de pastas específicas e registro de operações, este script facilita a organização eficiente de grandes volumes de arquivos espalhados em diversas localizações.
 
-## 📦 Índice
-
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Sintaxe Básica](#sintaxe-básica)
-- [Exemplos de Comando](#exemplos-de-comando)
-- [Opções de Linha de Comando](#opções-de-linha-de-comando)
-- [Personalizações e Melhorias](#personalizações-e-melhorias)
-- [Resolução de Problemas](#resolução-de-problemas)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
 ## 🛠️ Características
 
 - **Concentração de Arquivos:** Copia ou move todos os arquivos de subpastas de um diretório de origem para um único diretório de destino.
